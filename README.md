@@ -1,7 +1,7 @@
 # Hi, I'm Jacob 👾
 ### Junior Front-End Developer
 
-Currently working on [this app](https://github.com/Kubanec01/Money_Saver_App)  
+Currently working on [This App](https://github.com/Kubanec01/Money_Saver_App)  
 Feel free to explore my [Portfolio](https://kubanec01.github.io/Portfolio/)
 
 ---
