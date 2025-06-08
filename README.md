@@ -16,6 +16,7 @@ Feel free to explore my [Portfolio](https://kubanec01.github.io/Portfolio/)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
+![Figma](https://img.shields.io/badge/figma-%2300C4CC.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
