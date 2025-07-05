@@ -2,7 +2,7 @@
 ### Junior Front-End Developer
 
 Currently working on [Money Saver App](https://github.com/Kubanec01/Money_Saver_App)  
-Feel free to explore my [Portfolio](https://kubanec01.github.io/Portfolio/)
+Feel free to explore my [Portfolio](https://kubanec01.github.io/Jakub_Roman_Portfolio/)
 
 ---
 
