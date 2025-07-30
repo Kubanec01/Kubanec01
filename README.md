@@ -1,8 +1,8 @@
 # Hi, I'm Jacob 👾
 ### Front-End Developer
 
-Feel free to explore my [Portfolio](https://www.jakubroman.xyz/)
-Currently working on [Money Saver App](https://github.com/Kubanec01/Money_Saver_App)  
+- Feel free to explore my [Portfolio](https://www.jakubroman.xyz/)
+- Currently working on [Money Saver App](https://github.com/Kubanec01/Money_Saver_App)  
 
 ---
 
