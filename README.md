@@ -3,7 +3,6 @@
 
 - Feel free to explore my [Portfolio](https://www.jakubroman.xyz/)
 - My last project [Money Saver App](https://github.com/Kubanec01/Money_Saver_App)  
-- Currently working on [FinQuest](https://github.com/Kubanec01/FinQuest)  
 
 ---
 
