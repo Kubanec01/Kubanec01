@@ -2,7 +2,8 @@
 ### Frontend Developer
 
 - Feel free to explore my [Portfolio](https://www.jakubroman.xyz/)
-- My last project [Money Saver App](https://github.com/Kubanec01/Money_Saver_App)  
+- My last project [Money Saver App](https://github.com/Kubanec01/Money_Saver_App)
+- Currently in active development: [Time-Counter](https://github.com/Kubanec01/Time-Counter)
 
 ---
 
